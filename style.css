@@ -1,0 +1,12 @@
+#header{
+    background-color: red;
+}
+div{
+    text-align: center;
+    background-color: rgb(98, 235, 98);
+}  
+button{
+    background-color: red;
+    color: black;
+    text-emphasis: left;
+}
